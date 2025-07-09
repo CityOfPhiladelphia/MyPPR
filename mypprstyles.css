@@ -1,3 +1,7 @@
+.label {
+  background-color: transparent !important;
+}
+
 main {
   max-width: 90%;
   margin: 0 auto;
